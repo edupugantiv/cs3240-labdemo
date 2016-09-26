@@ -2,7 +2,6 @@
 # original hello.py statement
 #print("hello")
 
-def greeting(msg):
-	print(msg)
+from helper import *
 
 greeting("hello")
